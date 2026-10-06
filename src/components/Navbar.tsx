@@ -77,7 +77,7 @@ export const Navbar: React.FC = () => {
             "
           >
             <img
-              src="/logo.png"
+              src="./logo.png"
               alt="AK Logo"
               className="
                 block
