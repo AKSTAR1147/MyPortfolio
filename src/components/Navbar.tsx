@@ -67,7 +67,7 @@ export const Navbar: React.FC = () => {
               w-12 h-12
               shrink-0
               rounded-xl
-              bg-black
+              bg-white
               border border-slate-900
               shadow-md
               overflow-hidden
