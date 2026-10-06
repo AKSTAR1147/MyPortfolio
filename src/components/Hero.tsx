@@ -37,7 +37,7 @@ export const Hero: React.FC = () => {
       id="home" 
       className="relative min-h-screen flex items-center justify-start bg-fixed bg-cover bg-center bg-no-repeat pt-24 pb-16 z-0"
       style={{
-        backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.75)), url('/hero-bg.jpg')`
+        backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.75)), url('./MyPortfolio/hero-bg.jpg')`
       }}
     >
       <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 w-full z-10">

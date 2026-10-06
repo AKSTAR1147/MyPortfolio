@@ -91,8 +91,8 @@ export const portfolioData: PortfolioData = {
   bioTitle: "I'm Anurag Khonde.",
   bioSubtitle: "Backend Software Engineer specializing in Java & Distributed Systems",
   aboutText: `I am a backend-focused Software Engineer with a deep passion for building high-throughput server-side applications, microservices architectures, and event-driven systems. Focused primarily on Java, Spring Boot, Kafka, gRPC, C# .NET, and PostgreSQL, I bring hands-on experience in building scalable REST APIs, relational data modeling, and clean, maintainable server architectures.`,
-  profileImage: "/profile.png",
-  cvUrl: "/resume.pdf",
+  profileImage: "./profile.png",
+  cvUrl: "./resume.pdf",
 
   experiences: [
     {

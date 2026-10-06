@@ -50,7 +50,7 @@ export const Navbar: React.FC = () => {
           className="text-xl font-extrabold tracking-tight text-slate-900 flex items-center gap-2.5 group"
         >
           <div className="w-12 h-12 rounded-xl bg-black border border-slate-900 flex items-center justify-center p-0 shadow-md overflow-hidden group-hover:border-red-600 transition-colors">
-            <img src="/logo.png" alt="AK Logo" className="w-full h-full object-contain scale-[1.3] transform" />
+            <img src="./MyPortfolio/logo.png" alt="AK Logo" className="w-full h-full object-contain scale-[1.3] transform" />
           </div>
           <span className="group-hover:text-red-600 transition-colors">{portfolioData.name}</span>
         </a>
